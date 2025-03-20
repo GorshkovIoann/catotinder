@@ -1,16 +1,22 @@
 # catotinder
+Тиндер для котиков. Автор: Горшков Иоанн
+## Функционал
+Выполнен весь необходимый функционал в рамках дз
+ (от 15.03.2025) 
+## Интерфейс
+Описание возможностей приложения. \
+![Главная страница](/App_navigation_1.png)
+1. Логотип
+2. Кнопка дизлайков и счетчик дизлайков
+3. Кнопка лайков и счетчик лайков
+4. Картинка с api (при клике открывается страница детального описания, может быть свайпнута в любую сторону, вправо - лайк, влево - дизлайк, иначе - просто замена, можно вернуть на изначальную позицию и отменить свайп, тип свайпа не может быть изменен после начала)
+5. Кнопка изменения светлой и темной темы
+6. Кнопки выбора api (не рекомендуется быстро менять)
+7. Базовой описание полученное с api
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Страница описания](/App_navigation_2.png)
+1. Полное изображение, которое было кликнуто
+2. При клике во вне модалка закрывается
+3. Полное описание с api (не все поля с thecatapi отображаются, для других api вообще нет поддержки всех полей)
+## Ссылка на build apk
+[apk_kat](https://drive.google.com/file/d/1e2SU8P0bvLxtV3PsDXLK_363eJK84SJy/view?usp=sharing)
