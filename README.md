@@ -88,6 +88,6 @@
 ## Ссылка на скачивание APK
 
 Вы можете скачать последнюю версию APK по следующей ссылке:  
-[Download Cat Tinder APK 1.0.0]([https://example.com/path/to/app-release.apk](https://drive.google.com/file/d/1tNPKbIzkfdqmuQJsSbGVEwRuHFDNv94H/view?usp=sharing))
+[Download Cat Tinder APK 1.0.0]((https://drive.google.com/file/d/1tNPKbIzkfdqmuQJsSbGVEwRuHFDNv94H/view?usp=sharing)
 
 ---
